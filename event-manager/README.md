@@ -1,24 +1,27 @@
 The project is an event manager app
 
-#Technologies used
-##Front end
+## Technologies used
+
+**Front end**
 
 - Vite
 - React
 - Typescript
 
-##Back end
+**Back end**
 
 - Springboot
 - Java
 
-##Testing
+**Testing**
 
 - Vitest
 
-# How to run the app
+## How to run the app
 
-1- Run Springboot project
+1- Run Springboot project in
+`./event-service`
+
 2- Run React project
 `npm run dev`
 
@@ -27,6 +30,6 @@ To work around the next CORS error
 I used this chrome extension
 https://chromewebstore.google.com/detail/moesif-origincors-changer/digfbfaphojjndkpccljibejjbppifbc
 
-# How to run tests
+## How to run tests
 
 `npm test`
