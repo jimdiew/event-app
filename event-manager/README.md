@@ -1,4 +1,4 @@
-The project is an event manager app
+The project is an event manager app. You can see first the upcoming events (5 days from today), the events divided by category and a form to create a new event.
 
 ## Technologies used
 
