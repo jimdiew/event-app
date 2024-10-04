@@ -1,5 +1,3 @@
-# React + TypeScript + Vite
-
 The project is an event manager app
 
 #Technologies used
